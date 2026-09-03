@@ -1,1 +1,1 @@
-# graphics
+# cg-2026-solar
