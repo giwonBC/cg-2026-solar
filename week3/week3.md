@@ -1,7 +1,7 @@
 # 3주차 보고
 
 - 이름: 김병찬
-- 저장소: https://github.com/hong/cg-2026-solar
+- 저장소: - 저장소: https://github.com/giwonBC/cg-2026-solar
 - 실행: [Task 1](task1.html)
 
 ## Task 1 — 따라 하며 코드 구조 익히기
