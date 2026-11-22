@@ -66,7 +66,7 @@ camera = M4.multiply(M4.scale(1 / (3.4 * aspect), 1 / 3.4, -1 / 30), camera); //
 const model = M4.multiply(M4.translate(2, 1.9, 0), M4.rotateY(time * 0.8));
 ```
 
-![회전 후 이동]
+![회전 후 이동](공의%20자전.png)
 
 
 **(나) 이동 → 회전 : 원을 그리며 공전**
@@ -75,7 +75,7 @@ const model = M4.multiply(M4.translate(2, 1.9, 0), M4.rotateY(time * 0.8));
 const model = M4.multiply(M4.rotateY(time * 0.8), M4.translate(2, 1.9, 0));
 ```
 
-![이동 후 회전](images/task1-order-b.png)
+![이동 후 회전](공의%20공전.png)
 
 **설명** — 행렬은 **오른쪽부터** 적용된다.
 
@@ -92,7 +92,7 @@ void main() {
 }
 ```
 
-![법선을 색으로](images/task1-normal.png)
+![법선을 색으로](공%20법선을%20색으로.png)
 
 **관찰** — 법선의 x, y, z 가 각각 빨강, 초록, 파랑이 된다다. 구는 정점마다 법선 방향이 조금씩 달라서 표면이 무지개처럼 부드럽게 물든다. 바닥은 한 면의 꼭짓점 4개가 모두 같은 법선을 가지므로 면 하나가 한 색이 된다. 윗면은 연두색으로 보인다.
 
