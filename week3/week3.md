@@ -2,7 +2,7 @@
 
 - 이름: 김병찬
 - 저장소: https://github.com/giwonBC/cg-2026-solar
-- 실행: [Task 1](task1.html)
+- 실행: [[Task 1](task1.html)](https://giwonbc.github.io/cg-2026-solar/week3/task1.html)
 
 ## Task 1 — 따라 하며 코드 구조 익히기
 
