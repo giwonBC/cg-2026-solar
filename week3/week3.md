@@ -1,10 +1,12 @@
-# 3주차 보고
+# 3주차 보고서
 
 - 이름: 김병찬
 - 저장소: https://github.com/giwonBC/cg-2026-solar
-- 실행: [[Task 1](task1.html)](https://giwonbc.github.io/cg-2026-solar/week3/task1.html)
+
 
 ## Task 1 — 따라 하며 코드 구조 익히기
+
+- 실행: [[Task 1](task1.html)](https://giwonbc.github.io/cg-2026-solar/week3/task1.html)
 
 **확인 질문 — 꼭짓점은 3개인데 색이 부드럽게 이어지는 이유**
 버텍스 셰이더는 꼭짓점에서만 실행된다. 그 사이의 값은 래스터화 단계가 자동으로 채운다. 
